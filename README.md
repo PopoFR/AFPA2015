@@ -1,4 +1,4 @@
-Je trouve plus les sources, mais le rapport de stage contient toute l'architecture (logiciel et bdd)
+Je ne trouve plus les sources, mais le rapport de stage contient toute l'architecture (logiciel et bdd)
 voici la vue d'ensemble de l'application et la partie "observable".
 
 <img width="2000" height="2825" alt="vue d'ensemble application" src="https://github.com/user-attachments/assets/4394a112-cbaf-4267-869f-2b604f0846c8" />
